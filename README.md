@@ -12,6 +12,10 @@ The border-radius property can have multiple values changed. Preview how the sha
 
 ## Bonus features
 
--   [ ] User can change all 8 possible values of the border-radius in order to create a complex shape
+-   [x] User can change all 8 possible values of the border-radius in order to create a complex shape
 
 ## Visual
+
+<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius1.gif?raw=true" width="50%" height="50%"/>
+
+<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius2.gif?raw=true" width="50%" height="50%"/>
