@@ -16,6 +16,7 @@ The border-radius property can have multiple values changed. Preview how the sha
 
 ## Visual
 
-<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius1.gif?raw=true" width="50%" height="50%"/>
-
-<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius2.gif?raw=true" width="50%" height="50%"/>
+<p float="left">
+<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius1.gif?raw=true" width="45%" height="45%"/>
+<img src="https://github.com/viQcinese/documentation/blob/master/border-radius/border-radius2.gif?raw=true" width="45%" height="45%"/>
+</p>
